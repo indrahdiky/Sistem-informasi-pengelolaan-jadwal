@@ -1,0 +1,2 @@
+Sistem ini digunakan untuk mengelola jadwal aktivitas umum seperti jadwal sekolah, jadwal kerja, dll. namum saat ini kami hanya akan mengembangkan dua fitur pengelolaan pada
+jadwal sekolah dan jadwal kerja saja.

@@ -1,2 +1,3 @@
 Fitur yang akan di kembangkan:
 - Mengelola jadwal sekolah, pekerjaan, deadline, dan kegiatan atau aktivitas umum lainnya.
+- Memprioritaskan jadwal yang mendekati deadline.
